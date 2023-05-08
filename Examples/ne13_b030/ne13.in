@@ -1,0 +1,37 @@
+200000 20                         !MC Steps and number of checkpoints
+40000 5                           !Equilibration (approx 20%) and number of checkpoints
+2.0 40.0 30                      !T initial,T final, Number of Trajectories
+123456                           !Seed for the Random Number generator (integer),based on the clock system <=0
+LookUpTable_MP2_00.30_19.00.txt       !Name of the Potential Energy
+no restart_ne13_20            !restart
+5.32				 !Sphere radius for BC (Req=3.130 Angstrom)
+13				 !Number of Molecules
+-1				 !Saves configuration (integer), Yes: >0 / No: <=0
+1.0  5.0			 !Max. displacement (Angstrom) and Max. Rotation angle (degrees)
+-------------------------	 !blank line
+System1		 1		 !Name and number of atoms
+10	  2.825384495892464	  0.928562467914040	  0.505520149314310
+System2		 1
+10	  2.023342172678102	 -2.136126268595355	  0.666071287554958
+System3		 1
+10	  2.033761811732818	 -0.643989413759464	 -2.133000349161121
+System4		 1
+10	  0.979777205108572	  2.312002562803556	 -1.671909307631893
+System5		 1
+10	  0.962914279874254	 -0.102326586625353	  2.857083360096907
+System6		 1
+10	  0.317957619634043	  2.646768968413408	  1.412132053672896
+System7		 1
+10	 -2.825388342924982	 -0.928563755928189	 -0.505520471387560
+System8		 1
+10	 -0.317955944853142	 -2.646769840660271	 -1.412131825293682
+System9		 1
+10	 -0.979776174195320	 -2.312003751825495	  1.671909138648006
+System10	 1
+10	 -0.962916072888105	  0.102326392265998	 -2.857083272537599
+System11	 1
+10	 -2.023340541398004	  2.136128558801072	 -0.666071089291685
+System12	 1
+10	 -2.033762834001679	  0.643989905095452	  2.132999911364582
+System13	 1
+10	  0.000002325340981	  0.000000762100600	  0.000000414930733

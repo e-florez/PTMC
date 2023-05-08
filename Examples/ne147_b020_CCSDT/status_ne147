@@ -1,0 +1,213 @@
+
+Date and time: 2023-05-08, 21:13:23
+Total Steps:                            10000
+Equilibration:                           2000
+Status evolution: 
+     10 checkpoints for equilibration and
+     20 checkpoints for sampling
+
+Date and time: 2023-05-08, 21:13:25
+Steps for equilibration: 200 of 2000
+Equilibration:           10.0 %
+CPU time used:           2.66366E+00 sec
+Checkpoint FILEs:   checkpoint/equilibration/1/
+
+Date and time: 2023-05-08, 21:13:28
+Steps for equilibration: 400 of 2000
+Equilibration:           20.0 %
+CPU time used:           2.82081E+00 sec
+Checkpoint FILEs:   checkpoint/equilibration/2/
+
+Date and time: 2023-05-08, 21:13:31
+Steps for equilibration: 600 of 2000
+Equilibration:           30.0 %
+CPU time used:           2.91197E+00 sec
+Checkpoint FILEs:   checkpoint/equilibration/3/
+
+Date and time: 2023-05-08, 21:13:34
+Steps for equilibration: 800 of 2000
+Equilibration:           40.0 %
+CPU time used:           2.94662E+00 sec
+Checkpoint FILEs:   checkpoint/equilibration/4/
+
+Date and time: 2023-05-08, 21:13:37
+Steps for equilibration: 1000 of 2000
+Equilibration:           50.0 %
+CPU time used:           2.94219E+00 sec
+Checkpoint FILEs:   checkpoint/equilibration/5/
+
+Date and time: 2023-05-08, 21:13:40
+Steps for equilibration: 1200 of 2000
+Equilibration:           60.0 %
+CPU time used:           2.83591E+00 sec
+Checkpoint FILEs:   checkpoint/equilibration/6/
+
+Date and time: 2023-05-08, 21:13:43
+Steps for equilibration: 1400 of 2000
+Equilibration:           70.0 %
+CPU time used:           2.92985E+00 sec
+Checkpoint FILEs:   checkpoint/equilibration/7/
+
+Date and time: 2023-05-08, 21:13:45
+Steps for equilibration: 1600 of 2000
+Equilibration:           80.0 %
+CPU time used:           2.96143E+00 sec
+Checkpoint FILEs:   checkpoint/equilibration/8/
+
+Date and time: 2023-05-08, 21:13:48
+Steps for equilibration: 1800 of 2000
+Equilibration:           90.0 %
+CPU time used:           2.87983E+00 sec
+Checkpoint FILEs:   checkpoint/equilibration/9/
+
+Date and time: 2023-05-08, 21:13:51
+Steps for equilibration: 2000 of 2000
+Equilibration:          100.0 %
+CPU time used:           2.86133E+00 sec
+Checkpoint FILEs:   checkpoint/equilibration/10/
+
+*** EQUILIBRATION DONE ***
+-----------------------------------------------------------------
+ CPU time used:    0 days   0 hours   0 minutes 28.7536 seconds
+-----------------------------------------------------------------
+
+Date and time: 2023-05-08, 21:14:02
+Sample steps:     500 of 10000
+MC Evolution:      5.0 %
+CPU time used:    1.04673E+01 sec
+Checkpoint FILEs:   checkpoint/1/
+
+
+Date and time: 2023-05-08, 21:14:12
+Sample steps:     1000 of 10000
+MC Evolution:     10.0 %
+CPU time used:    1.01321E+01 sec
+Checkpoint FILEs:   checkpoint/2/
+
+
+Date and time: 2023-05-08, 21:14:22
+Sample steps:     1500 of 10000
+MC Evolution:     15.0 %
+CPU time used:    1.01446E+01 sec
+Checkpoint FILEs:   checkpoint/3/
+
+
+Date and time: 2023-05-08, 21:14:32
+Sample steps:     2000 of 10000
+MC Evolution:     20.0 %
+CPU time used:    1.01512E+01 sec
+Checkpoint FILEs:   checkpoint/4/
+
+
+Date and time: 2023-05-08, 21:14:42
+Sample steps:     2500 of 10000
+MC Evolution:     25.0 %
+CPU time used:    9.62190E+00 sec
+Checkpoint FILEs:   checkpoint/5/
+
+
+Date and time: 2023-05-08, 21:14:52
+Sample steps:     3000 of 10000
+MC Evolution:     30.0 %
+CPU time used:    1.00259E+01 sec
+Checkpoint FILEs:   checkpoint/6/
+
+
+Date and time: 2023-05-08, 21:15:02
+Sample steps:     3500 of 10000
+MC Evolution:     35.0 %
+CPU time used:    1.00816E+01 sec
+Checkpoint FILEs:   checkpoint/7/
+
+
+Date and time: 2023-05-08, 21:15:12
+Sample steps:     4000 of 10000
+MC Evolution:     40.0 %
+CPU time used:    1.00465E+01 sec
+Checkpoint FILEs:   checkpoint/8/
+
+
+Date and time: 2023-05-08, 21:15:22
+Sample steps:     4500 of 10000
+MC Evolution:     45.0 %
+CPU time used:    1.02074E+01 sec
+Checkpoint FILEs:   checkpoint/9/
+
+
+Date and time: 2023-05-08, 21:15:33
+Sample steps:     5000 of 10000
+MC Evolution:     50.0 %
+CPU time used:    1.06908E+01 sec
+Checkpoint FILEs:   checkpoint/10/
+
+
+Date and time: 2023-05-08, 21:15:43
+Sample steps:     5500 of 10000
+MC Evolution:     55.0 %
+CPU time used:    1.02341E+01 sec
+Checkpoint FILEs:   checkpoint/11/
+
+
+Date and time: 2023-05-08, 21:15:53
+Sample steps:     6000 of 10000
+MC Evolution:     60.0 %
+CPU time used:    1.03733E+01 sec
+Checkpoint FILEs:   checkpoint/12/
+
+
+Date and time: 2023-05-08, 21:16:04
+Sample steps:     6500 of 10000
+MC Evolution:     65.0 %
+CPU time used:    1.05247E+01 sec
+Checkpoint FILEs:   checkpoint/13/
+
+
+Date and time: 2023-05-08, 21:16:15
+Sample steps:     7000 of 10000
+MC Evolution:     70.0 %
+CPU time used:    1.07167E+01 sec
+Checkpoint FILEs:   checkpoint/14/
+
+
+Date and time: 2023-05-08, 21:16:25
+Sample steps:     7500 of 10000
+MC Evolution:     75.0 %
+CPU time used:    1.04917E+01 sec
+Checkpoint FILEs:   checkpoint/15/
+
+
+Date and time: 2023-05-08, 21:16:36
+Sample steps:     8000 of 10000
+MC Evolution:     80.0 %
+CPU time used:    1.08206E+01 sec
+Checkpoint FILEs:   checkpoint/16/
+
+
+Date and time: 2023-05-08, 21:16:47
+Sample steps:     8500 of 10000
+MC Evolution:     85.0 %
+CPU time used:    1.06859E+01 sec
+Checkpoint FILEs:   checkpoint/17/
+
+
+Date and time: 2023-05-08, 21:16:57
+Sample steps:     9000 of 10000
+MC Evolution:     90.0 %
+CPU time used:    1.06592E+01 sec
+Checkpoint FILEs:   checkpoint/18/
+
+
+Date and time: 2023-05-08, 21:17:08
+Sample steps:     9500 of 10000
+MC Evolution:     95.0 %
+CPU time used:    1.06738E+01 sec
+Checkpoint FILEs:   checkpoint/19/
+
+
+Date and time: 2023-05-08, 21:17:19
+Sample steps:     10000 of 10000
+MC Evolution:    100.0 %
+CPU time used:    1.13972E+01 sec
+
+*** END OF MONTE CARLO CYCLE ***
+
