@@ -1,0 +1,31 @@
+#!/bin/bash
+
+# Default source directory
+src_dir="src"
+
+# Parse command line arguments
+while [ $# -gt 0 ]; do
+    case $1 in
+        --src-dir=*)
+            src_dir="${1#*=}"
+            shift
+            ;;
+        *)
+            echo "Unknown option: $1"
+            exit 1
+            ;;
+    esac
+    shift
+done
+
+# Check if the source directory exists
+if [ ! -d "$src_dir" ]; then
+    echo "Source directory not found: $src_dir"
+    exit 1
+fi
+
+# Generate Makefile from Makefile.in
+sed "s|@SRC_DIR@|$src_dir|g" Makefile.in > Makefile
+
+echo "Makefile generated successfully with source directory: $src_dir"
+

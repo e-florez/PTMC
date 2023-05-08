@@ -1,7 +1,7 @@
-# Makefile for compiling the Fortran 2003 code
+# Makefile.in - Template for Fortran 2003 code Makefile
 
 # Variables
-SRC_DIR := src
+SRC_DIR := @SRC_DIR@
 MAIN := $(SRC_DIR)/atomic_PTMC_look-up_Table_v3.f03
 SUBS := $(SRC_DIR)/DrawMolecularConfiguration_v9.f03 $(SRC_DIR)/ClockSeed_v1.f03 $(SRC_DIR)/RandomNumber_v1.f03 $(SRC_DIR)/DisplaceAtoms_v1.f03 $(SRC_DIR)/RotateCluster_v1.f03 $(SRC_DIR)/AtomicMass_v1.f03
 OUT := PTMC.exe
@@ -48,3 +48,4 @@ $(MULTIHIST_OUT): $(MULTIHIST_SRC)
 
 clean:
 	rm -f $(OUT) $(MULTIHIST_OUT)
+
