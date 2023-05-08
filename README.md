@@ -12,8 +12,7 @@
   <img src="https://img.shields.io/badge/project_status-under_development-blue">
 </div>
 
-# Parallel Tempering Monte Carlo (PTMC) Fortran Code
-
+# Parallel Tempering Monte Carlo (PTMC)
 ## Introduction
 
 Monte Carlo simulations are a powerful tool to study the thermodynamic properties of atomic and molecular clusters, including their phase transitions. This project presents a new Fortran (2003) code for simulating phase transitions using the Parallel Tempering Monte Carlo (PTMC) method.
